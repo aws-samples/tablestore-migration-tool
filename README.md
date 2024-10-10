@@ -1,6 +1,6 @@
 ## TableStore-Migration-Tool
 
-TableStore-Migration-Tool is a **Spring Boot** application designed to facilitate the migration of data from **AliCloud TableStore** to **AWS DynamoDB** or **AWS S3** using the TableStore Tunnel Service. This application supports both full data migration and incremental data migration, making it a robust solution for data migration needs.
+TableStore-Migration-Tool is a **Spring Boot** application designed to facilitate the migration of data from **AliCloud TableStore** to **AWS DynamoDB**,**MongoDB** or **AWS S3** using the TableStore Tunnel Service. This application supports both full data migration and incremental data migration, making it a robust solution for data migration needs.
 
 #### Features
 
