@@ -16,7 +16,7 @@ TableStore-Migration-Tool is a **Spring Boot** application designed to facilitat
 
 #### Configuration
 
-Before running the application, you need to configure your AliCloud TableStore and AWS DynamoDB/S3 settings. Edit the `application.properties` file located in `config/` with your specific configurations:
+Before running the application, you need to configure your AliCloud TableStore and AWS DynamoDB/MongoDB/S3 settings. Edit the `application.properties` file located in `config/` with your specific configurations:
 
 ```properties
 # TableStore configs
